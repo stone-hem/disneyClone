@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import Movies from './Movies'
 import Slider from './Slider'
 import Viewer from './Viewer'
 
@@ -10,6 +11,7 @@ function Home() {
     <Container>
       <Slider />
       <Viewer/>
+      <Movies/>
     </Container>
   )
 }

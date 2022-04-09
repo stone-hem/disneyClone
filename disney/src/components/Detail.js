@@ -65,6 +65,7 @@ height:30vh;
 min-height:170px;
 width:35vw;
 min-width:200px;
+margin-top:20px;
 img{
   width:100%;
   height:100%;
@@ -139,5 +140,6 @@ font-size:20px;
 margin-top:16px;
 min-height:20px;
 line-height:1.4;
+max-width:600px;
 
 `

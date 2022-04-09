@@ -18,6 +18,12 @@ function Movies() {
             <Wrap>
                 <img src='/images/login.jpg' alt=""/>
             </Wrap>
+            <Wrap>
+                <img src='/images/login.jpg' alt=""/>
+            </Wrap>
+            <Wrap>
+                <img src='/images/login.jpg' alt=""/>
+            </Wrap>
 
         </Content>
     </Container>
